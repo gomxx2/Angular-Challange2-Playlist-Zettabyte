@@ -1,0 +1,26 @@
+.body{
+    background-image: url(../assets/bg.jpg); 
+}
+.title{
+    padding-top: 60px;
+    font-size: 100px;;
+    font-weight: bolder;
+    color:whitesmoke;
+}
+
+.desc-title{
+   padding-top: 3%;
+   color: white;
+}
+
+.uk-container{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    ;
+}
+
+.delete{
+color:red;
+}
